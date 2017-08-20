@@ -1,3 +1,4 @@
 language: swift
 xcode_project: CI-Test.xcodeproj
 xcode_scheme: CI-TestTests
+os: osx
